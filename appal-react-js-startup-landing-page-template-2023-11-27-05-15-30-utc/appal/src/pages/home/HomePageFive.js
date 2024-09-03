@@ -42,7 +42,7 @@ const HomePageFive = () => {
           <Pricing pricingBg="assets/images/pricing/sec-bg-2.jpg" />
           <AppSectionThree sectionSpace="sec-ptb-160" />
           <FaqSectionTwo />
-          <BlogSlider sectionSpace="sec-ptb-160 pb-0" />
+          <BlogSlider sectionSpace="sec-ptb-160 pb-1" />
         </main>
       </LayoutTwo>
     </Fragment>
