@@ -1,0 +1,1744 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EasyBook\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-26 09:48+0000\n"
+"PO-Revision-Date: 2020-03-04 10:46+0000\n"
+"Last-Translator: CTHthemes <contact.cththemes@gmail.com>\n"
+"Language-Team: French (France)\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-5.2.5"
+
+#: functions.php:71 template-parts/navigation/navigation-top.php:19
+msgid "Top Menu"
+msgstr "Menu principal"
+
+#: functions.php:72
+msgid "Social Links Menu"
+msgstr "Menu Liens sociaux"
+
+#: functions.php:217
+msgid "Blog Sidebar"
+msgstr "Barre latérale du blog"
+
+#: functions.php:219
+msgid ""
+"Add widgets here to appear in your sidebar on blog posts and archive pages."
+msgstr ""
+"Ajoutez des widgets ici pour apparaître dans votre barre latérale sur les "
+"articles de blog et les pages d'archives."
+
+#: functions.php:227
+msgid "Page Sidebar"
+msgstr "Barre latérale de la page"
+
+#: functions.php:229
+msgid "Appears in the sidebar section of the page template."
+msgstr "Apparaît dans la section de la barre latérale du modèle de page."
+
+#: functions.php:237
+msgid "Shop Sidebar"
+msgstr "Acheter la barre latérale"
+
+#: functions.php:239
+msgid "Appears in the sidebar section of the shop pages."
+msgstr ""
+"Apparaît dans la section de la barre latérale des pages de la boutique."
+
+#: functions.php:246
+msgid "Languages Switcher"
+msgstr "Commutateur de langues"
+
+#: functions.php:248
+msgid "Appears in the header section of the pages."
+msgstr "Apparaît dans la section d'en-tête des pages."
+
+#: functions.php:352
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: functions.php:357
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: functions.php:361
+msgctxt "Quicksand font: on or off"
+msgid "on"
+msgstr "sur"
+
+#: functions.php:497
+msgid "Elementor Page Builder"
+msgstr "Générateur de pages Elementor"
+
+#: functions.php:511
+msgid "Contact Form 7"
+msgstr "Formulaire de contact 7"
+
+#: functions.php:525
+msgid "CMB2"
+msgstr "CMB2"
+
+#: functions.php:538
+msgid "Kirki"
+msgstr "Kirki"
+
+#: functions.php:551
+msgid "EasyBook Add-ons"
+msgstr "Modules complémentaires EasyBook"
+
+#: functions.php:566
+msgid "EasyBook WooCommerce Payments"
+msgstr "Paiements EasyBook WooCommerce"
+
+#: functions.php:582
+msgid "Loco Translate"
+msgstr "Loco Translate"
+
+#: functions.php:612
+msgid "One Click Demo Import"
+msgstr "Importation de démo en un clic"
+
+#: functions.php:625
+msgid "Regenerate Thumbnails"
+msgstr "Régénérer les vignettes"
+
+#: functions.php:638
+msgid "WP Facebook Login for WordPress"
+msgstr "Connexion Facebook WP pour WordPress"
+
+#: functions.php:651
+msgid "WordPress Social Login (Facebook, Google, Twitter)"
+msgstr "Connexion sociale WordPress (Facebook, Google, Twitter)"
+
+#. Name of the template
+msgid "Header Map"
+msgstr "Carte d'en-tête"
+
+#. Name of the template
+msgid "Home Page"
+msgstr "Page d'accueil"
+
+#: 404.php:36
+msgid "404"
+msgstr "404"
+
+#: 404.php:44
+msgid "Or"
+msgstr "Ou"
+
+#: 404.php:45
+msgid "Back to Home Page"
+msgstr "Retour à la page d'accueil"
+
+#. Name of the template
+msgid "Fullwidth"
+msgstr "Pleine largeur"
+
+#: index.php:42
+msgid "Let's Start"
+msgstr "Commençons"
+
+#: comments.php:36
+msgid "Comments - "
+msgstr "Commentaires -"
+
+#: comments.php:46
+msgid "Reply"
+msgstr "Répondre"
+
+#: comments.php:67
+msgid "<i class=\"fa fa-angle-left\"></i> Previous Comments"
+msgstr "<i class=\"fa fa-angle-left\"></i> Commentaires précédents"
+
+#: comments.php:68
+msgid "Next Comments <i class=\"fa fa-angle-right\"></i>"
+msgstr "Commentaires suivants <i class=\"fa fa-angle-right\"></i>"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: comments.php:92
+msgid "Add Comment"
+msgstr "Ajouter un commentaire"
+
+#: comments.php:95
+msgid "Your Name "
+msgstr "votre nom"
+
+#: comments.php:96
+msgid "Your Email "
+msgstr "Votre email"
+
+#: comments.php:99
+msgid "Your Comment:"
+msgstr "Votre commentaire:"
+
+#: comments.php:104
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: comments.php:105
+msgid ""
+"You must be <a class=\"comment-log-popup logreg-modal-open\" href=\"#\">"
+"logged in</a> to post a comment."
+msgstr ""
+"Vous devez être <a class=\"comment-log-popup logreg-modal-open\" href=\"#\">"
+"connecté</a> pour poster un commentaire."
+
+#: comments.php:106
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Connecté en tant que <a href=\"%1$s\">%2$s</a> . <a href=\"%3$s\" "
+"title=\"\"Journal\" out of  this account\">Se déconnecter?</a>"
+
+#: comments.php:107
+msgid "Your email is safe with us."
+msgstr "Votre email est en sécurité avec nous."
+
+#. Name of the template
+msgid "Left Sidebar"
+msgstr "Barre latérale de gauche"
+
+#: search.php:37
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Résultats de la recherche pour: %s"
+
+#: search.php:39 template-parts/post/content-none.php:24
+msgid "Nothing Found"
+msgstr "rien n'a été trouvé"
+
+#: header.php:90
+msgid "Search"
+msgstr "Chercher"
+
+#: header.php:91
+msgid "Close"
+msgstr "Fermer"
+
+#. Name of the template
+msgid "Right Sidebar"
+msgstr "Barre latérale droite"
+
+#. Name of the template
+msgid "Home Fullscreen"
+msgstr "Accueil Plein écran"
+
+#. Name of the template
+msgid "No Sidebar"
+msgstr "Pas de barre latérale"
+
+#: searchform.php:16
+msgctxt "search input placeholder"
+msgid "Search..."
+msgstr "Chercher..."
+
+#: inc/icon-functions.php:21
+msgid "Please define default parameters in the form of an array."
+msgstr "Veuillez définir les paramètres par défaut sous la forme d'un tableau."
+
+#: inc/icon-functions.php:26
+msgid "Please define an SVG icon filename."
+msgstr "Veuillez définir un nom de fichier d'icône SVG."
+
+#: inc/one-click-import-data.php:19
+msgid "EasyBook theme - Full Demo Content (widgets included)"
+msgstr "Thème EasyBook - Contenu de démonstration complet (widgets inclus)"
+
+#: inc/one-click-import-data.php:22
+msgid "EasyBook theme - Full Demo Content (widgets included)."
+msgstr "Thème EasyBook - Contenu de démonstration complet (widgets inclus)."
+
+#: inc/template-tags.php:103 inc/kirki-customizer.php:1031
+msgid "Our Partners"
+msgstr "Nos partenaires"
+
+#: inc/template-tags.php:110 inc/kirki-customizer.php:1104
+msgid "Get in Touch"
+msgstr "Entrer en contact"
+
+#: inc/template-tags.php:115 inc/kirki-customizer.php:1109
+msgid "Customer support"
+msgstr "Service client"
+
+#: inc/template-tags.php:153
+msgid "About Us"
+msgstr "À propos de nous"
+
+#: inc/template-tags.php:159
+msgid "Our Last News"
+msgstr "Nos dernières nouvelles"
+
+#: inc/template-tags.php:164
+msgid "Our Tweets"
+msgstr "Nos tweets"
+
+#: inc/template-tags.php:189 inc/template-tags.php:229
+#: inc/template-tags.php:275 inc/template-tags.php:458
+msgid "Prev"
+msgstr "Précédent"
+
+#: inc/template-tags.php:195 inc/template-tags.php:238
+#: inc/template-tags.php:284 inc/template-tags.php:462
+msgid "Next"
+msgstr "Prochain"
+
+#: inc/template-tags.php:333
+msgid "F j, Y g:i a"
+msgstr "F j, Y g: il"
+
+#: inc/template-tags.php:340
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: inc/template-tags.php:364
+msgid "<i class=\"fa fa-caret-left\"></i>"
+msgstr "<i class=\"fa fa-caret-left\"></i>"
+
+#: inc/template-tags.php:365
+msgid "<i class=\"fa fa-caret-right\"></i>"
+msgstr "<i class=\"fa fa-caret-right\"></i>"
+
+#: inc/template-tags.php:366
+msgid "Posts navigation"
+msgstr "Navigation des articles"
+
+#: inc/template-tags.php:404
+msgid "<i class=\"fa fa-chevron-left\"></i>"
+msgstr "<i class=\"fa fa-chevron-left\"></i>"
+
+#: inc/template-tags.php:413
+msgid "<i class=\"fa fa-chevron-right\"></i>"
+msgstr "<i class=\"fa fa-chevron-right\"></i>"
+
+#: inc/template-tags.php:459
+msgid "Previous Projects"
+msgstr "Projets antérieurs"
+
+#: inc/template-tags.php:463
+msgid "Next Projects"
+msgstr "Projets suivants"
+
+#: inc/template-tags.php:483
+msgid "Home"
+msgstr "Accueil"
+
+#: inc/template-tags.php:484
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/template-tags.php:676 inc/template-tags.php:680
+#: inc/template-tags.php:684 inc/template-tags.php:691
+#: inc/template-tags.php:695 inc/template-tags.php:700
+msgid " Archives"
+msgstr "Les archives"
+
+#: inc/template-tags.php:711
+msgid " Author: "
+msgstr "Auteur:"
+
+#: inc/template-tags.php:716
+msgid "Page"
+msgstr "Page"
+
+#: inc/template-tags.php:721
+msgid "Search results for: "
+msgstr "Résultats de recherche pour:"
+
+#: inc/template-tags.php:726
+msgid "Error 404"
+msgstr "Erreur 404"
+
+#. %s: Name of current post
+#: inc/template-tags.php:751
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Modifier <span class=\"screen-reader-text\"> &quot; %s \"</span>"
+
+#: inc/template-tags.php:806 inc/template-tags.php:852
+msgid "By "
+msgstr "Par"
+
+#: inc/template-tags.php:829 inc/template-tags.php:875
+msgctxt "comment counter None format"
+msgid "0 comment"
+msgstr "0 commentaire"
+
+#: inc/template-tags.php:829 inc/template-tags.php:875
+msgctxt "comment counter One format"
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: inc/template-tags.php:829 inc/template-tags.php:875
+#, php-format
+msgctxt "comment counter Plural format"
+msgid "% comments"
+msgstr "% commentaires"
+
+#: inc/template-tags.php:840 inc/template-tags.php:886
+msgid "Tags"
+msgstr "Mots clés"
+
+#: inc/template-tags.php:896
+msgid "Pages: "
+msgstr "Pages:"
+
+#: inc/template-functions.php:133
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+"Ce contenu est protégé par mot de passe. Pour le voir, veuillez entrer votre "
+"mot de passe ci-dessous:"
+
+#: inc/template-functions.php:134
+msgid "Password:"
+msgstr "Mot de passe:"
+
+#: inc/template-functions.php:134
+msgctxt "post password form"
+msgid "Enter"
+msgstr "Entrer"
+
+#: inc/back-compat.php:47 inc/back-compat.php:59 inc/back-compat.php:74
+#, php-format
+msgid ""
+"EasyBook requires at least WordPress version 5.0. You are running version %s."
+" Please upgrade and try again."
+msgstr ""
+"EasyBook nécessite au moins WordPress version 5.0. Vous exécutez la version "
+"%s. Veuillez mettre à niveau et réessayer."
+
+#: inc/kirki-customizer.php:125
+msgid "W"
+msgstr "la"
+
+#: inc/kirki-customizer.php:126
+msgid "Image Width"
+msgstr "Largeur de l'image"
+
+#: inc/kirki-customizer.php:127
+msgid "Width"
+msgstr "Largeur"
+
+#: inc/kirki-customizer.php:130
+msgid " x "
+msgstr "X"
+
+#: inc/kirki-customizer.php:133
+msgid "H"
+msgstr "H"
+
+#: inc/kirki-customizer.php:134
+msgid "Image Height"
+msgstr "hauteur de l'image"
+
+#: inc/kirki-customizer.php:135
+msgid "Height"
+msgstr "la taille"
+
+#: inc/kirki-customizer.php:138
+msgid " px "
+msgstr "px"
+
+#: inc/kirki-customizer.php:143
+msgid "Hard Crop "
+msgstr "Culture dure"
+
+#: inc/kirki-customizer.php:185
+msgid "General Options"
+msgstr "Options générales"
+
+#: inc/kirki-customizer.php:194
+msgid "Show Loader"
+msgstr "Afficher le chargeur"
+
+#: inc/kirki-customizer.php:202
+msgid "Loader Icon"
+msgstr "Icône de chargeur"
+
+#: inc/kirki-customizer.php:215
+msgid "Enable Auto Update"
+msgstr "Activer la mise à jour automatique"
+
+#: inc/kirki-customizer.php:216
+msgid "Note: auto update feature is not for Envato Elements download."
+msgstr ""
+"Remarque: la fonction de mise à jour automatique n'est pas disponible pour "
+"le téléchargement d'Envato Elements."
+
+#: inc/kirki-customizer.php:223
+msgid "Header Options"
+msgstr "Options d'en-tête"
+
+#: inc/kirki-customizer.php:232
+msgid "Header Contacts Info"
+msgstr "Informations sur les contacts d'en-tête"
+
+#: inc/kirki-customizer.php:233
+msgid ""
+"Enter header contacts info for your site. Notice: only visible on large "
+"screen."
+msgstr ""
+"Entrez les informations de contacts d'en-tête pour votre site. Remarque: "
+"visible uniquement sur grand écran."
+
+#: inc/kirki-customizer.php:242
+msgid "Show Search"
+msgstr "Afficher la recherche"
+
+#: inc/kirki-customizer.php:251
+msgid "Show Cart"
+msgstr "Voir le panier"
+
+#: inc/kirki-customizer.php:260
+msgid "Logged In Avatar"
+msgstr "Avatar connecté"
+
+#: inc/kirki-customizer.php:266
+msgid "Style One"
+msgstr "Style One"
+
+#: inc/kirki-customizer.php:267
+msgid "Style Two"
+msgstr "Style deux"
+
+#: inc/kirki-customizer.php:273
+msgid "Thumbnail Sizes"
+msgstr "Tailles des vignettes"
+
+#: inc/kirki-customizer.php:274
+msgid ""
+"These settings affect the display and dimensions of images in your pages.\n"
+"Enter 9999 as Width value and uncheck Hard Crop to make your thumbnail "
+"dynamic width.\n"
+"Enter 9999 as Height value and uncheck Hard Crop to make your thumbnail "
+"dynamic height.\n"
+"Enter 9999 as Width and Height values to use full size image.\n"
+"After changing these settings you may need using Regenerate Thumbnails "
+"plugin to regenerate your thumbnails"
+msgstr ""
+"Ces paramètres affectent l'affichage et les dimensions des images dans vos "
+"pages.  N Entrez 9999 comme valeur de largeur et décochez Hard Crop pour "
+"rendre la largeur dynamique de votre miniature.  N Entrez 9999 comme valeur "
+"de Height et décochez Hard Crop pour rendre la hauteur dynamique de votre "
+"miniature.  n Entrez 9999 comme valeurs de largeur et de hauteur pour "
+"utiliser l'image en taille réelle.  n Après avoir modifié ces paramètres, "
+"vous devrez peut-être utiliser le plug-in Regenerate Thumbnails pour "
+"régénérer vos vignettes"
+
+#: inc/kirki-customizer.php:287
+msgid "Enable Custom Image Sizes"
+msgstr "Activer les tailles d'image personnalisées"
+
+#: inc/kirki-customizer.php:297
+msgid "Listing Grid"
+msgstr "Grille de cotation"
+
+#: inc/kirki-customizer.php:298
+msgid "Demo: Width - 408, Height - 270, Hard crop - checked"
+msgstr "Démo: Largeur - 408, Hauteur - 270, Recadrage dur - vérifié"
+
+#: inc/kirki-customizer.php:312
+msgid "Listing Category Size One"
+msgstr "Liste Catégorie Taille Un"
+
+#: inc/kirki-customizer.php:313
+msgid "Demo: Width - 611, Height - 458, Hard crop - checked"
+msgstr "Démo: Largeur - 611, Hauteur - 458, Recadrage dur - vérifié"
+
+#: inc/kirki-customizer.php:327
+msgid "Listing Category Size Two"
+msgstr "Liste Catégorie Taille Deux"
+
+#: inc/kirki-customizer.php:328
+msgid "Demo: Width - 1243, Height - 458, Hard crop - checked"
+msgstr "Démo: Largeur - 1243, Hauteur - 458, Recadrage dur - vérifié"
+
+#: inc/kirki-customizer.php:343
+msgid "Listing Category Size Three"
+msgstr "Liste Catégorie Taille Trois"
+
+#: inc/kirki-customizer.php:344
+msgid "Demo: Width - 1894, Height - 458, Hard crop - checked"
+msgstr "Démo: Largeur - 1894, Hauteur - 458, Recadrage dur - vérifié"
+
+#: inc/kirki-customizer.php:359
+msgid "Post Grid Thumbanil"
+msgstr "Post Grid Thumbanil"
+
+#: inc/kirki-customizer.php:360
+msgid "Demo: Width - 388, Height - 257, Hard crop - checked"
+msgstr "Démo: Largeur - 388, Hauteur - 257, Recadrage dur - vérifié"
+
+#: inc/kirki-customizer.php:375
+msgid "Blog Thumbnail"
+msgstr "Vignette du blog"
+
+#: inc/kirki-customizer.php:376 inc/kirki-customizer.php:391
+msgid "Demo: Width - 806, Height - 534, Hard crop - checked"
+msgstr "Démo: Largeur - 806, Hauteur - 534, Recadrage dur - vérifié"
+
+#: inc/kirki-customizer.php:390
+msgid "Blog Single Thumbnail"
+msgstr "Vignette unique du blog"
+
+#: inc/kirki-customizer.php:405
+msgid "Recent Post Widget"
+msgstr "Widget de publication récente"
+
+#: inc/kirki-customizer.php:406
+msgid "Demo: Width - 114, Height - 76, Hard crop - checked"
+msgstr "Démo: Largeur - 114, Hauteur - 76, Recadrage dur - vérifié"
+
+#: inc/kirki-customizer.php:424
+msgid "Colors & Fonts - Options"
+msgstr "Couleurs et polices - Options"
+
+#: inc/kirki-customizer.php:433
+msgid "Use Custom Colors"
+msgstr "Utiliser des couleurs personnalisées"
+
+#: inc/kirki-customizer.php:434
+msgid "Set this option to <b>Yes</b> if you want to use color variants bellow."
+msgstr ""
+"Définissez cette option sur <b>Oui</b> si vous souhaitez utiliser les "
+"variantes de couleur ci-dessous."
+
+#: inc/kirki-customizer.php:443
+msgid "Theme Color"
+msgstr "Couleur du thème"
+
+#: inc/kirki-customizer.php:444 inc/kirki-customizer.php:524
+#: inc/kirki-customizer.php:587 inc/kirki-customizer.php:596
+#: inc/kirki-customizer.php:614 inc/kirki-customizer.php:623
+msgid "Default: #4DB7FE"
+msgstr "Par défaut: # 4DB7FE"
+
+#: inc/kirki-customizer.php:454
+msgid "Theme Secondary Color"
+msgstr "Couleur secondaire du thème"
+
+#: inc/kirki-customizer.php:455
+msgid "Default: #5ECFB1"
+msgstr "Par défaut: # 5ECFB1"
+
+#: inc/kirki-customizer.php:465
+msgid "Button Hover Color - Theme third color"
+msgstr "Button Hover Color - Thème troisième couleur"
+
+#: inc/kirki-customizer.php:466 inc/kirki-customizer.php:477
+#: inc/kirki-customizer.php:487 inc/kirki-customizer.php:542
+msgid "Default: #2F3B59"
+msgstr "Par défaut: # 2F3B59"
+
+#: inc/kirki-customizer.php:476
+msgid "Body Background Color"
+msgstr "Couleur d'arrière-plan du corps"
+
+#: inc/kirki-customizer.php:486
+msgid "Loader Background Color"
+msgstr "Couleur d'arrière-plan du chargeur"
+
+#: inc/kirki-customizer.php:496
+msgid "Body Text Color"
+msgstr "Couleur du texte du corps"
+
+#: inc/kirki-customizer.php:497 inc/kirki-customizer.php:515
+#: inc/kirki-customizer.php:533 inc/kirki-customizer.php:605
+msgid "Default: #000000"
+msgstr "Par défaut: # 000000"
+
+#: inc/kirki-customizer.php:505
+msgid "Paragraph Color"
+msgstr "Couleur de paragraphe"
+
+#: inc/kirki-customizer.php:506 inc/kirki-customizer.php:645
+msgid "Default: #878C9F"
+msgstr "Par défaut: # 878C9F"
+
+#: inc/kirki-customizer.php:514
+msgid "Link Color"
+msgstr "Couleur du lien"
+
+#: inc/kirki-customizer.php:523
+msgid "Link Hover Color"
+msgstr "Couleur du survol du lien"
+
+#: inc/kirki-customizer.php:532
+msgid "Link Active Color"
+msgstr "Lien couleur active"
+
+#: inc/kirki-customizer.php:541
+msgid "Header Bg Color"
+msgstr "Couleur de l'en-tête Bg"
+
+#: inc/kirki-customizer.php:553
+msgid "Header Color"
+msgstr "Couleur d'en-tête"
+
+#: inc/kirki-customizer.php:554 inc/kirki-customizer.php:566
+#: inc/kirki-customizer.php:578
+msgid "Default: #ffffff"
+msgstr "Par défaut: #ffffff"
+
+#: inc/kirki-customizer.php:565
+msgid "Submenu Background Color"
+msgstr "Couleur d'arrière-plan du sous-menu"
+
+#: inc/kirki-customizer.php:577
+msgid "Menu Color"
+msgstr "Couleur du menu"
+
+#: inc/kirki-customizer.php:586
+msgid "Menu Hover Color"
+msgstr "Menu Hover Color"
+
+#: inc/kirki-customizer.php:595
+msgid "Menu Active Color"
+msgstr "Menu Couleur active"
+
+#: inc/kirki-customizer.php:604
+msgid "Submenu Color"
+msgstr "Couleur du sous-menu"
+
+#: inc/kirki-customizer.php:613
+msgid "Submenu Hover Color"
+msgstr "Couleur du survol du sous-menu"
+
+#: inc/kirki-customizer.php:622
+msgid "Submenu Active Color"
+msgstr "Sous-menu Couleur active"
+
+#: inc/kirki-customizer.php:632
+msgid "Footer Background Color"
+msgstr "Couleur de fond du bas de page"
+
+#: inc/kirki-customizer.php:633 inc/kirki-customizer.php:658
+msgid "Default: #2C3B5A"
+msgstr "Par défaut: # 2C3B5A"
+
+#: inc/kirki-customizer.php:644
+msgid "Footer Color"
+msgstr "Couleur du pied de page"
+
+#: inc/kirki-customizer.php:657
+msgid "Footer Copyright Background Color"
+msgstr "Couleur d'arrière-plan du droit d'auteur du pied de page"
+
+#: inc/kirki-customizer.php:670
+msgid "Use Custom Fonts"
+msgstr "Utiliser des polices personnalisées"
+
+#: inc/kirki-customizer.php:671
+msgid "Set this option to <b>Yes</b> if you want to use font variants bellow."
+msgstr ""
+"Définissez cette option sur <b>Oui</b> si vous souhaitez utiliser les "
+"variantes de police ci-dessous."
+
+#: inc/kirki-customizer.php:680
+msgid "Body Font"
+msgstr "Police du corps"
+
+#: inc/kirki-customizer.php:681
+msgid ""
+"<p>Specify the body font properties.</br> Default </br>font-family: inherit "
+"</br>font-size: 13px </br>font-weight: 400</p>"
+msgstr ""
+"<p> Spécifiez les propriétés de police du corps. </br> Défaut </br> font-"
+"family: inherit </br> taille de police: 13px </br> poids de la police: 400 "
+"</p>"
+
+#: inc/kirki-customizer.php:691
+msgid "Heading Font"
+msgstr "Police de titre"
+
+#: inc/kirki-customizer.php:692
+msgid ""
+"<p>Specify the body font properties.</br> Default </br>font-family: inherit"
+msgstr ""
+"<p> Spécifiez les propriétés de police du corps. </br> Défaut </br> font-"
+"family: inherit"
+
+#: inc/kirki-customizer.php:702
+msgid "Paragraph Font"
+msgstr "Police de paragraphe"
+
+#: inc/kirki-customizer.php:703
+msgid ""
+"<p>Specify the body font properties.</br> Default </br>font-family: inherit "
+"</br>font-size: 12px </br>font-weight: 400</p>"
+msgstr ""
+"<p> Spécifiez les propriétés de police du corps. </br> Défaut </br> font-"
+"family: inherit </br> taille de police: 12px </br> poids de la police: 400 "
+"</p>"
+
+#: inc/kirki-customizer.php:713
+msgid "EasyBook Bolder Font"
+msgstr "EasyBook Bolder Font"
+
+#: inc/kirki-customizer.php:714
+msgid ""
+"<p>Specify the body font properties.</br> Default </br>font-family: "
+"Montserrat"
+msgstr ""
+"<p> Spécifiez les propriétés de police du corps. </br> Défaut </br> famille "
+"de polices: Montserrat"
+
+#: inc/kirki-customizer.php:724
+msgid "EasyBook Italic Font"
+msgstr "EasyBook Italic Font"
+
+#: inc/kirki-customizer.php:725
+msgid ""
+"<p>Specify the body font properties.</br> Default </br>font-family: Georgia "
+"</br>font-style: italic</p>"
+msgstr ""
+"<p> Spécifiez les propriétés de police du corps. </br> Défaut </br> famille "
+"de polices: Georgia </br> style de police: italique </p>"
+
+#: inc/kirki-customizer.php:740
+msgid "Blog Options"
+msgstr "Options de blog"
+
+#: inc/kirki-customizer.php:741
+msgid "My Description"
+msgstr "Ma description"
+
+#: inc/kirki-customizer.php:746
+msgid "Blog Header"
+msgstr "En-tête de blog"
+
+#: inc/kirki-customizer.php:747 inc/kirki-customizer.php:794
+msgid "These options are for your blog list page: "
+msgstr "Ces options sont pour votre page de liste de blog:"
+
+#: inc/kirki-customizer.php:756
+msgid "Show Header"
+msgstr "Afficher en-tête"
+
+#: inc/kirki-customizer.php:764
+msgid "Header Title"
+msgstr "Titre d'en-tête"
+
+#: inc/kirki-customizer.php:773
+msgid "Header Intro"
+msgstr "Introduction de l'en-tête"
+
+#: inc/kirki-customizer.php:783
+msgid "Header Background"
+msgstr "Arrière-plan de l'en-tête"
+
+#: inc/kirki-customizer.php:793
+msgid "List View"
+msgstr "Affichage liste"
+
+#: inc/kirki-customizer.php:804
+msgid "Blog Sidebar Layout"
+msgstr "Disposition de la barre latérale du blog"
+
+#: inc/kirki-customizer.php:819 inc/kirki-customizer.php:914
+msgid "Sidebar Width"
+msgstr "Largeur de la barre latérale"
+
+#: inc/kirki-customizer.php:820 inc/kirki-customizer.php:915
+msgid "Based on Bootstrap 12 columns."
+msgstr "Basé sur les colonnes Bootstrap 12."
+
+#: inc/kirki-customizer.php:826 inc/kirki-customizer.php:842
+#: inc/kirki-customizer.php:921
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+#: inc/kirki-customizer.php:827 inc/kirki-customizer.php:922
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+#: inc/kirki-customizer.php:828 inc/kirki-customizer.php:923
+msgid "4 Columns"
+msgstr "4 colonnes"
+
+#: inc/kirki-customizer.php:829 inc/kirki-customizer.php:924
+msgid "5 Columns"
+msgstr "5 colonnes"
+
+#: inc/kirki-customizer.php:830 inc/kirki-customizer.php:925
+msgid "6 Columns"
+msgstr "6 colonnes"
+
+#: inc/kirki-customizer.php:836
+msgid "Choose how to display posts on the post page"
+msgstr ""
+"Choisissez comment afficher les publications sur la page de publication"
+
+#: inc/kirki-customizer.php:841
+msgid "1 Columns"
+msgstr "1 colonnes"
+
+#: inc/kirki-customizer.php:848
+msgid "Show Post Format on posts page"
+msgstr "Afficher le format de publication sur la page des publications"
+
+#: inc/kirki-customizer.php:856 inc/kirki-customizer.php:940
+msgid "Show Date"
+msgstr "Afficher la date"
+
+#: inc/kirki-customizer.php:864 inc/kirki-customizer.php:948
+msgid "Show Author"
+msgstr "Afficher l'auteur"
+
+#: inc/kirki-customizer.php:872 inc/kirki-customizer.php:956
+msgid "Show Categories"
+msgstr "Afficher les catégories"
+
+#: inc/kirki-customizer.php:880 inc/kirki-customizer.php:964
+msgid "Show Views Count"
+msgstr "Afficher le nombre de vues"
+
+#: inc/kirki-customizer.php:888 inc/kirki-customizer.php:972
+msgid "Show Tags"
+msgstr "Voir les étiquettes"
+
+#: inc/kirki-customizer.php:896 inc/kirki-customizer.php:980
+msgid "Show Comments"
+msgstr "Afficher les commentaires"
+
+#: inc/kirki-customizer.php:903
+msgid "Single Post View"
+msgstr "Vue de poste unique"
+
+#: inc/kirki-customizer.php:904
+msgid "Add custom CSS here"
+msgstr "Ajoutez du CSS personnalisé ici"
+
+#: inc/kirki-customizer.php:932
+msgid "Show Featured Image"
+msgstr "Afficher l'image sélectionnée"
+
+#: inc/kirki-customizer.php:988
+msgid "Show Author Block"
+msgstr "Afficher le bloc d'auteur"
+
+#: inc/kirki-customizer.php:996
+msgid "Show post navigation"
+msgstr "Afficher la navigation des articles"
+
+#: inc/kirki-customizer.php:1004
+msgid "Next/Prev posts should be in same category"
+msgstr "Les messages suivants / précédents doivent être dans la même catégorie"
+
+#: inc/kirki-customizer.php:1012
+msgid "Footer Options"
+msgstr "Options de pied de page"
+
+#: inc/kirki-customizer.php:1020
+msgid "Footer Widgets Top"
+msgstr "Widgets de pied de page Haut"
+
+#: inc/kirki-customizer.php:1025 inc/kirki-customizer.php:1064
+#: inc/kirki-customizer.php:1098
+msgid "Widget Area"
+msgstr "Zone de widget"
+
+#: inc/kirki-customizer.php:1039 inc/kirki-customizer.php:1072
+#: inc/kirki-customizer.php:1117
+msgid "Widget Title"
+msgstr "Titre du Widget"
+
+#: inc/kirki-customizer.php:1040 inc/kirki-customizer.php:1073
+#: inc/kirki-customizer.php:1118
+msgid "This will be the label for your widget area"
+msgstr "Ce sera le libellé de votre zone de widget"
+
+#: inc/kirki-customizer.php:1045 inc/kirki-customizer.php:1078
+#: inc/kirki-customizer.php:1123
+msgid "Widget Classes"
+msgstr "Classes de widgets"
+
+#: inc/kirki-customizer.php:1046 inc/kirki-customizer.php:1079
+#: inc/kirki-customizer.php:1124
+msgid "This will be used to layout your widget"
+msgstr "Cela sera utilisé pour mettre en page votre widget"
+
+#: inc/kirki-customizer.php:1051 inc/kirki-customizer.php:1084
+#: inc/kirki-customizer.php:1129
+msgid "Widget ID"
+msgstr "ID du widget"
+
+#: inc/kirki-customizer.php:1052 inc/kirki-customizer.php:1085
+#: inc/kirki-customizer.php:1130
+msgid "This value must be unique. And don't change it after."
+msgstr "Cette valeur doit être unique. Et ne le changez pas après."
+
+#: inc/kirki-customizer.php:1059
+msgid "Footer Widgets"
+msgstr "Widgets de pied de page"
+
+#: inc/kirki-customizer.php:1093
+msgid "Footer Widgets Bottom"
+msgstr "Bas de page des widgets"
+
+#: inc/kirki-customizer.php:1140
+msgid "Footer Background"
+msgstr "Fond de pied de page"
+
+#: inc/kirki-customizer.php:1152
+msgid "Show Footer Subscribe"
+msgstr "Afficher le pied de page"
+
+#: inc/kirki-customizer.php:1158
+msgid "Show"
+msgstr "Spectacle"
+
+#: inc/kirki-customizer.php:1159
+msgid "Hidden"
+msgstr "Caché"
+
+#: inc/kirki-customizer.php:1165
+msgid "Subscribe Text"
+msgstr "S'abonner au texte"
+
+#: inc/kirki-customizer.php:1166
+msgid "Enter footer subscribe text for your site."
+msgstr "Entrez le pied de page abonnez-vous au texte de votre site."
+
+#: inc/kirki-customizer.php:1175
+msgid "Copyright Text"
+msgstr "Texte de copyright"
+
+#: inc/kirki-customizer.php:1176
+msgid "Enter footer copyright text for your site."
+msgstr "Saisissez le texte du droit d'auteur du pied de page pour votre site."
+
+#: inc/kirki-customizer.php:1184
+msgid "Sub Text"
+msgstr "Sous-texte"
+
+#: inc/kirki-customizer.php:1185
+msgid "Enter sub footer text for your site."
+msgstr "Saisissez le texte du pied de page de votre site."
+
+#: inc/kirki-customizer.php:1207
+msgid "Error 404 Options"
+msgstr "Erreur 404 Options"
+
+#: inc/kirki-customizer.php:1216
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: inc/kirki-customizer.php:1224
+msgid "Additional Message"
+msgstr "Message supplémentaire"
+
+#: inc/kirki-customizer.php:1232
+msgid "Show back Home"
+msgstr "Retour à l'accueil"
+
+#: inc/include-kirki.php:65
+msgid ""
+"A plugin is required to take advantage of this theme's features in the "
+"customizer."
+msgstr ""
+"Un plugin est nécessaire pour profiter des fonctionnalités de ce thème dans "
+"le personnalisateur."
+
+#: inc/include-kirki.php:66
+msgid "Install Kirki Toolkit now"
+msgstr "Installez Kirki Toolkit maintenant"
+
+#: inc/include-kirki.php:67
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: inc/include-kirki.php:70
+msgid ""
+"You have installed Kirki. Activate it to take advantage of this theme's "
+"features in the customizer."
+msgstr ""
+"Vous avez installé Kirki. Activez-le pour profiter des fonctionnalités de ce "
+"thème dans le personnalisateur."
+
+#: inc/include-kirki.php:71
+msgid "Activate Kirki Toolkit now"
+msgstr "Activez Kirki Toolkit maintenant"
+
+#: inc/include-kirki.php:72
+msgid "Activate Now"
+msgstr "Activer maintenant"
+
+#: lib/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr "Installez les plug-ins requis"
+
+#: lib/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr "Installer des plugins"
+
+#. %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Installation du plug-in: %s"
+
+#. %s: plugin name.
+#: lib/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "Mise à jour du plugin: %s"
+
+#: lib/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr "Une erreur s'est produite avec l'API du plugin."
+
+#: lib/class-tgm-plugin-activation.php:341
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Ce thème nécessite le plugin suivant:%1$s."
+msgstr[1] "Ce thème nécessite les plugins suivants:%1$s."
+
+#: lib/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Ce thème recommande le plugin suivant:%1$s."
+msgstr[1] "Ce thème recommande les plugins suivants:%1$s."
+
+#: lib/class-tgm-plugin-activation.php:353
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"Le plugin suivant doit être mis à jour vers sa dernière version pour assurer "
+"une compatibilité maximale avec ce thème:%1$s. msgid_plural Les plugins "
+"suivants doivent être mis à jour vers leur dernière version pour assurer une "
+"compatibilité maximale avec ce thème:%1$s."
+msgstr[1] ""
+
+#: lib/class-tgm-plugin-activation.php:359
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Une mise à jour est disponible pour:%1$s."
+msgstr[1] "Des mises à jour sont disponibles pour les plugins suivants:%1$s."
+
+#: lib/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Le plug-in requis suivant est actuellement inactif:%1$s."
+msgstr[1] "Les plug-ins requis suivants sont actuellement inactifs:%1$s."
+
+#: lib/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Le plug-in recommandé suivant est actuellement inactif:%1$s."
+msgstr[1] "Les plug-ins recommandés suivants sont actuellement inactifs:%1$s."
+
+#: lib/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Commencez à installer le plugin"
+msgstr[1] "Commencez à installer des plugins"
+
+#: lib/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Commencer la mise à jour du plugin"
+msgstr[1] "Commencez à mettre à jour les plugins"
+
+#: lib/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Commencez à activer le plugin"
+msgstr[1] "Commencez à activer les plugins"
+
+#: lib/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr "Retourner à l'installateur de plugins requis"
+
+#: lib/class-tgm-plugin-activation.php:393
+#: lib/class-tgm-plugin-activation.php:912
+#: lib/class-tgm-plugin-activation.php:2626
+#: lib/class-tgm-plugin-activation.php:3689
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: lib/class-tgm-plugin-activation.php:394
+#: lib/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: lib/class-tgm-plugin-activation.php:395
+#: lib/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr "Le plugin suivant a été activé avec succès:"
+
+#. 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Pas d'action prise. Le plugin%1$s était déjà actif."
+
+#. 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin non activé. Une version supérieure de %s est nécessaire pour ce thème."
+" Veuillez mettre à jour le plugin."
+
+#. 1: dashboard link.
+#: lib/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tous les plugins installés et activés avec succès. %1$s"
+
+#: lib/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr "Ne tenez pas compte de cet avertissement"
+
+#: lib/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Il existe un ou plusieurs plugins requis ou recommandés à installer, mettre "
+"à jour ou activer."
+
+#: lib/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr "Veuillez contacter l'administrateur de ce site pour obtenir de l'aide."
+
+#: lib/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Ce plugin doit être mis à jour pour être compatible avec votre thème."
+
+#: lib/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr "Mise à jour requise"
+
+#: lib/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"Le package du plugin distant ne contient pas de dossier avec le slug "
+"souhaité et le changement de nom n'a pas fonctionné."
+
+#: lib/class-tgm-plugin-activation.php:1019
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Veuillez contacter le fournisseur de plugins et leur demander de "
+"conditionner leur plugin conformément aux directives de WordPress."
+
+#: lib/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"Le package de plug-in distant se compose de plusieurs fichiers, mais les "
+"fichiers ne sont pas regroupés dans un dossier."
+
+#: lib/class-tgm-plugin-activation.php:1206
+#: lib/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "et"
+
+#. %s: version number
+#: lib/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA dans %s"
+
+#: lib/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr "Obligatoire"
+
+#: lib/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr "conseillé"
+
+#: lib/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr "Référentiel WordPress"
+
+#: lib/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr "Source externe"
+
+#: lib/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr "Pré-emballé"
+
+#: lib/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr "Pas installé"
+
+#: lib/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: lib/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr "actif"
+
+#: lib/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr "Mise à jour requise non disponible"
+
+#: lib/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr "Nécessite une mise à jour"
+
+#: lib/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr "Mise à jour recommandée"
+
+#. 1: install status, 2: update status
+#: lib/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s,%2$s"
+
+#. 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Tous <span class=\"count\">( %s)</span>"
+msgstr[1] "Tous <span class=\"count\">( %s)</span>"
+
+#. 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour installer <span class=\"count\">( %s)</span>"
+msgstr[1] "Pour installer <span class=\"count\">( %s)</span>"
+
+#. 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Mise à jour disponible <span class=\"count\">( %s)</span>"
+msgstr[1] "Mise à jour disponible <span class=\"count\">( %s)</span>"
+
+#. 1: number of plugins.
+#: lib/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Pour activer <span class=\"count\">( %s)</span>"
+msgstr[1] "Pour activer <span class=\"count\">( %s)</span>"
+
+#: lib/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "inconnue"
+
+#: lib/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr "Version installée:"
+
+#: lib/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr "Version minimale requise:"
+
+#: lib/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr "Version disponible:"
+
+#: lib/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr "Aucun plugin à installer, mettre à jour ou activer."
+
+#: lib/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr "Brancher"
+
+#: lib/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr "La source"
+
+#: lib/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr "Type"
+
+#: lib/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr "Version"
+
+#: lib/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr "Statut"
+
+#. %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr "Installer%2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr "Mettre à jour%2$s"
+
+#. %2$s: plugin name in screen reader markup
+#: lib/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr "Activez%2$s"
+
+#: lib/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr "Message de mise à niveau de l'auteur du plugin:"
+
+#: lib/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr "Installer"
+
+#: lib/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr "Mise à jour"
+
+#: lib/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr "Activer"
+
+#: lib/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+"Aucun plugin n'a été sélectionné pour être installé. Pas d'action prise."
+
+#: lib/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+"Aucun plugin n'a été sélectionné pour être mis à jour. Pas d'action prise."
+
+#: lib/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr "Aucun plugin n'est disponible pour être installé pour le moment."
+
+#: lib/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr "Aucun plugin n'est disponible pour être mis à jour pour le moment."
+
+#: lib/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Aucun plugin n'a été sélectionné pour être activé. Pas d'action prise."
+
+#: lib/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "Aucun plugin n'est disponible pour être activé pour le moment."
+msgstr[1] "Les plugins suivants ont été activés avec succès:"
+
+#: lib/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr "L'activation du plugin a échoué."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Mise à jour du plugin%1$s (%2$d /%3$d)"
+
+#. 1: plugin name, 2: error message.
+#: lib/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+"Une erreur s'est produite lors de l'installation de%1$s: <strong>"
+"%2$s</strong> ."
+
+#. 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3612
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "L'installation de%1$s a échoué."
+
+#: lib/class-tgm-plugin-activation.php:3616
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"Le processus d'installation et d'activation démarre. Ce processus peut "
+"prendre un certain temps sur certains hôtes, alors soyez patient."
+
+#. 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: lib/class-tgm-plugin-activation.php:3618
+#: lib/class-tgm-plugin-activation.php:3626
+msgid "Show Details"
+msgstr "Afficher les détails"
+
+#: lib/class-tgm-plugin-activation.php:3618
+#: lib/class-tgm-plugin-activation.php:3626
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#: lib/class-tgm-plugin-activation.php:3619
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations sont terminées."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3621
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation du plug-in%1$s (%2$d /%3$d)"
+
+#: lib/class-tgm-plugin-activation.php:3624
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"Le processus d'installation démarre. Ce processus peut prendre un certain "
+"temps sur certains hôtes, alors soyez patient."
+
+#. 1: plugin name.
+#: lib/class-tgm-plugin-activation.php:3626
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s installé avec succès."
+
+#: lib/class-tgm-plugin-activation.php:3627
+msgid "All installations have been completed."
+msgstr "Toutes les installations sont terminées."
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: lib/class-tgm-plugin-activation.php:3629
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation du plugin%1$s (%2$d /%3$d)"
+
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content.php:72 template-parts/post/content-audio.php:72
+#: template-parts/post/content-video.php:58
+#: template-parts/post/content-quote.php:51
+#: template-parts/post/content-image.php:51
+msgid "Read more "
+msgstr "Lire la suite"
+
+#: template-parts/post/content-none.php:30
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Prêt à publier votre première publication? <a href=\"%1$s\">Commencez ici</a>"
+" ."
+
+#: template-parts/post/content-none.php:34
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Il semble que nous ne trouvions pas ce que vous cherchez. Peut-être que la "
+"recherche peut aider."
+
+#: template-parts/single/author-block.php:24
+msgid "Author"
+msgstr "Auteur"
+
+#: template-parts/single/author-block.php:35
+msgctxt "Show author socials on single post page: yes or no"
+msgid "yes"
+msgstr "Oui"
+
+#: template-parts/single/author-block.php:39
+msgid "Follow on Twitter"
+msgstr "Suivre sur Twitter"
+
+#: template-parts/single/author-block.php:42
+msgid "Like on Facebook"
+msgstr "J'aime sur Facebook"
+
+#: template-parts/single/author-block.php:45
+msgid "Circle on Google Plus"
+msgstr "Cercle sur Google Plus"
+
+#: template-parts/single/author-block.php:48
+msgid "Be Friend on Linkedin"
+msgstr "Soyez ami sur Linkedin"
+
+#: template-parts/single/author-block.php:51
+msgid "Follow on Instagram"
+msgstr "Suivez sur Instagram"
+
+#: template-parts/single/author-block.php:54
+msgid "Follow on  Tumblr"
+msgstr "Suivre sur tumblr"
+
+#: lib/update/inc/items.php:64 lib/update/inc/items.php:68
+#: lib/update/inc/update.php:57 lib/update/inc/update.php:66
+#: lib/update/inc/api.php:39 lib/update/inc/api.php:43
+msgid "Cheatin&#8217; huh?"
+msgstr "Tricher hein?"
+
+#: lib/update/inc/api.php:67
+msgid "An API token is required."
+msgstr "Un jeton d'API est requis."
+
+#: lib/update/inc/api.php:91 lib/update/inc/api.php:95
+msgid "An unknown API error occurred."
+msgstr "Une erreur d'API inconnue s'est produite."
+
+#: lib/update/inc/admin/admin.php:88
+msgid "EasyBook - Directory & Listing WordPress Theme"
+msgstr "EasyBook - Thème WordPress pour répertoires et listes"
+
+#: lib/update/inc/admin/admin.php:89
+msgid ""
+"From version 1.0.2 we provide new update system which allow you update our "
+"theme and its add-ons plugin directly from WordPress Themes/Plugins screen."
+msgstr ""
+"À partir de la version 1.0.2, nous fournissons un nouveau système de mise à "
+"jour qui vous permet de mettre à jour notre thème et son plug-in "
+"d'extensions directement depuis l'écran Thèmes / Plugins de WordPress."
+
+#: lib/update/inc/admin/admin.php:90
+msgid "You do not need to delete and reinstall add-ons plugins anymore."
+msgstr ""
+"Vous n'avez plus besoin de supprimer et de réinstaller les plug-ins de "
+"modules complémentaires."
+
+#: lib/update/inc/admin/admin.php:90
+#: lib/update/inc/admin/options/purchase_code.php:18
+msgid "See guide -->"
+msgstr "Voir guide ->"
+
+#: lib/update/inc/admin/admin.php:91
+msgid "And your purchase code is REQUIRED"
+msgstr "Et votre code d'achat est OBLIGATOIRE"
+
+#: lib/update/inc/admin/admin.php:92
+msgid "ADD PURCHASE CODE"
+msgstr "AJOUTER UN CODE D'ACHAT"
+
+#: lib/update/inc/admin/admin.php:130
+msgid "CTHthemes Update"
+msgstr "CTHthemes Update"
+
+#: lib/update/inc/admin/admin.php:157
+msgid "EasyBook Theme Purchase Code"
+msgstr "Code d'achat du thème EasyBook"
+
+#: lib/update/inc/admin/admin.php:164
+msgid "Purchase Code"
+msgstr "Code d'achat"
+
+#: lib/update/inc/admin/options/purchase_code.php:14
+msgid ""
+"Enter your purchase code for the theme to receive demo data and its add-ons "
+"plugins."
+msgstr ""
+"Saisissez votre code d'achat pour que le thème reçoive les données de "
+"démonstration et ses plug-ins complémentaires."
+
+#: lib/update/inc/admin/options/purchase_code.php:16
+msgid ""
+"It also allow you receive updates from WordPress themes/plugins screens like "
+"others."
+msgstr ""
+"Il vous permet également de recevoir des mises à jour à partir des écrans de "
+"thèmes / plugins WordPress comme les autres."
+
+#: lib/update/inc/admin/options/purchase_code.php:18
+msgid " You do not need to delete and reinstall add-ons plugins anymore."
+msgstr ""
+"Vous n'avez plus besoin de supprimer et de réinstaller les plug-ins de "
+"modules complémentaires."
+
+#: lib/update/inc/admin/options/settings/purchase_code.php:16
+msgid "Where Is My Purchase Code?"
+msgstr "Où est mon code d'achat?"
+
+#: lib/update/inc/admin/options/settings/purchase_code.php:19
+msgid "Log into your Envato Market account."
+msgstr "Connectez-vous à votre compte Envato Market."
+
+#: lib/update/inc/admin/options/settings/purchase_code.php:20
+msgid "Hover the mouse over your username at the top of the screen."
+msgstr "Passez la souris sur votre nom d'utilisateur en haut de l'écran."
+
+#: lib/update/inc/admin/options/settings/purchase_code.php:21
+msgid "Click \"Downloads\" from the drop down menu."
+msgstr "Cliquez sur  &quot;Téléchargements \" dans le menu déroulant."
+
+#: lib/update/inc/admin/options/settings/purchase_code.php:21
+msgid " Go to Downloads -->"
+msgstr "Allez dans Téléchargements ->"
+
+#: lib/update/inc/admin/options/settings/purchase_code.php:22
+msgid ""
+"Click \"License certificate & purchase code\" (available as PDF or text file)"
+"."
+msgstr ""
+"Cliquez sur  &quot;Certificat de licence et code d'achat \" (disponible en "
+"format PDF ou fichier texte)."
+
+#: lib/update/inc/admin/options/settings/purchase_code.php:25
+#, php-format
+msgid ""
+"Read <a href=\"%s\" target=\"_blank\">Envato guide</a> for more details."
+msgstr ""
+"Lisez le <a href=\"%s\" target=\"_blank\">guide Envato</a> pour plus de "
+"détails."
+
+#. Name of the theme
+msgid "EasyBook"
+msgstr "EasyBook"
+
+#. Description of the theme
+msgid ""
+"EasyBook – Directory &amp; Listing WordPress Theme is perfect if you like a "
+"clean and modern design. EasyBook a Directory &amp; Listing WordPress Theme "
+"that will help you create, manage and monetize a local or global directory "
+"site."
+msgstr ""
+"EasyBook - Répertoire et liste de thèmes WordPress est parfait si vous aimez "
+"un design épuré et moderne. EasyBook un Thème WordPress Annuaire et Liste "
+"qui vous aidera à créer, gérer et monétiser un site d'annuaire local ou "
+"mondial."
+
+#. URI of the theme
+msgid "https://easybook.cththemes.com/"
+msgstr "https://easybook.cththemes.com/"
+
+#. Author of the theme
+msgid "CTHthemes"
+msgstr "CTHthemes"
+
+#. Author URI of the theme
+msgid "http://themeforest.net/user/cththemes"
+msgstr "http://themeforest.net/user/cththemes"

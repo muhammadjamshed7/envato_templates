@@ -1,0 +1,81 @@
+{
+    "blogs": [
+        {
+            "id": 1,
+            "column": "singleproject-view col-lg-6",
+            "imgSrc": "/images/blog/blog-1.jpg",
+            "title": "Figma Free UI Kit",
+            "category": "News",
+            "alt": "Blog Image",
+            "date": "April 25th, 2024",
+            "admin": "Admin",
+            "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat..."
+        },
+        {
+            "id": 2,
+            "column": "singleproject-view col-lg-6",
+            "imgSrc": "/images/blog/blog-2.jpg",
+            "title": "AZA Social App",
+            "category": "Inspiration",
+            "alt": "Blog Image",
+            "date": "May 15th, 2022",
+            "admin": "Admin",
+            "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat..."
+        },
+        {
+            "id": 3,
+            "column": "singleproject-view col-lg-6",
+            "imgSrc": "/images/blog/blog-3.jpg",
+            "title": "Allen Carter Business Card",
+            "category": "Experience",
+            "alt": "Blog Image",
+            "date": "January 10th, 2022",
+            "admin": "Admin",
+            "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat..."
+        },
+        {
+            "id": 4,
+            "column": "singleproject-view col-lg-6",
+            "imgSrc": "/images/blog/blog-4.jpg",
+            "title": "CBD Gummies",
+            "category": "Community",
+            "alt": "Blog Image",
+            "date": "May 14th, 2023",
+            "admin": "Admin",
+            "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat..."
+        },
+        {
+            "id": 5,
+            "column": "singleproject-view col-lg-6",
+            "imgSrc": "/images/blog/blog-5.jpg",
+            "title": "HINK Rebrand",
+            "category": "News",
+            "alt": "Blog Image",
+            "date": "December 25th, 2021",
+            "admin": "Admin",
+            "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat..."
+        },
+        {
+            "id": 6,
+            "column": "singleproject-view col-lg-6",
+            "imgSrc": "/images/blog/blog-6.jpg",
+            "title": "Allen Carter Business Card",
+            "category": "Community",
+            "alt": "Blog Image",
+            "date": "July 10th, 2022",
+            "admin": "Admin",
+            "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat..."
+        },
+        {
+            "id": 7,
+            "column": "singleproject-view col-lg-12",
+            "imgSrc": "/images/blog/blog-7.jpg",
+            "title": "Allen Carter Business Card",
+            "category": "News",
+            "alt": "Blog Image",
+            "date": "August 14th, 2023",
+            "admin": "Admin",
+            "content": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat..."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "img": "assets/images/icons/bg-1.png",
+    "title": "Extra Secure",
+    "icon": "uil uil-shield-check"
+  },
+  {
+    "img": "assets/images/icons/bg-2.png",
+    "title": "free setup",
+    "icon": "uil uil-paint-tool"
+  },
+  {
+    "img": "assets/images/icons/bg-3.png",
+    "title": "24/7 Hour Support",
+    "icon": "uil uil-headphones"
+  },
+  {
+    "img": "assets/images/icons/bg-4.png",
+    "title": "Unique Design",
+    "icon": "uil uil-layer-group-slash"
+  },
+  {
+    "img": "assets/images/icons/bg-5.png",
+    "title": "Retina Ready",
+    "icon": "uil uil-airplay"
+  }
+]
