@@ -1,0 +1,91 @@
+@@include("partials/main.html")
+    <head>
+        @@include("partials/title-meta.html", {"title": "Newser"})        
+        <!-- Css -->
+        @@include("partials/head-css.html")
+    </head>
+    
+    @@include("partials/body.html")
+    
+        <!-- leftbar-tab-menu -->
+        @@include('./partials/topbar.html')
+
+        <div class="flex flex-col">            
+            <div class="relative w-full py-[70px] "> 
+                <div class="container z-1">
+                    <div class="grid grid-cols-12 sm:grid-cols-12 md:grid-cols-12 lg:grid-cols-12 xl:grid-cols-12 gap-4 mb-4 justify-center">                        
+                        <div class="col-span-12 sm:col-span-12  md:col-span-12 lg:col-span-12 xl:col-span-12 ">
+                            <div class=" w-full relative mb-10">                                
+                                <div class="flex-auto p-4">             
+                                    <div class="text-center mt-10">
+                                        <h4 class="my-1 font-semibold text-[30px] md:text-[40px] dark:text-slate-200 mb-5 leading-12">Blogs Section For Everyone</h4>
+                                        <h6 class="text-gray-500 dark:text-gray-400 text-lg font-medium">Lorem Ipsum is simply dummy text of the printing <br> and typesetting industry.</h6>
+                                    </div>
+                                </div><!--end card-body-->
+                            </div> <!--end card-->
+                        </div><!--end col-->            
+                    </div><!--end inner-grid-->  
+                    <div class="grid grid-cols-12 sm:grid-cols-12 md:grid-cols-12 lg:grid-cols-12 xl:grid-cols-12 gap-4 mb-4">
+                        <div class="col-span-12 sm:col-span-6  md:col-span-6 lg:col-span-6 xl:col-span-6 ">
+                            <div class="bg-pink-50 dark:bg-pink-500/10 backdrop-blur-2xl   rounded-md w-full relative">
+                                <div class="flex-auto p-8 md:p-8">
+                                    <span class="text-[12px] bg-pink-500/10 text-pink-500 dark:text-pink-600 rounded font-medium py-1 px-2 inline mb-3">Finance</span>
+                                    <a href="#" class="my-3 block text-[24px] font-medium tracking-tight text-gray-800 dark:text-white">Popular admin template you can use for your business.</a> 
+                                    <div class="border-b border-dashed border-white dark:border-slate-700/40 my-4"></div>       
+                                    <p class="text-gray-500 dark:text-gray-400 text-lg font-normal">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                    <div class="block mt-3">
+                                        <a href="" class="block text-pink-500 hover:text-pink-600 font-medium  focus:outline-none">Read More <i data-lucide="arrow-right" class="self-center inline-block ms-1 h-4 w-4"></i></a>                            
+                                    </div>
+                                </div><!--end card-body-->
+                            </div> <!--end card-->
+                        </div><!--end col--> 
+                        <div class="col-span-12 sm:col-span-6  md:col-span-6 lg:col-span-6 xl:col-span-6 ">
+                            <div class="bg-primary-50 dark:bg-primary-500/10 backdrop-blur-2xl   rounded-md w-full relative">
+                                <div class="flex-auto p-8 md:p-8">
+                                    <span class="text-[12px] bg-primary-500/10 text-primary-500 dark:text-primary-600 rounded font-medium py-1 px-2 inline mb-3">Finance</span>
+                                    <a href="#" class="my-3 block text-[24px] font-medium tracking-tight text-gray-800 dark:text-white">Popular admin template you can use for your business.</a> 
+                                    <div class="border-b border-dashed border-white dark:border-slate-700/40 my-4"></div>       
+                                    <p class="text-gray-500 dark:text-gray-400 text-lg font-normal">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                    <div class="block mt-3">
+                                        <a href="" class="block text-primary-500 hover:text-primary-600 font-medium  focus:outline-none">Read More <i data-lucide="arrow-right" class="self-center inline-block ms-1 h-4 w-4"></i></a>                            
+                                    </div>
+                                </div><!--end card-body-->
+                            </div> <!--end card-->
+                        </div><!--end col--> 
+                        <div class="col-span-12 sm:col-span-6  md:col-span-6 lg:col-span-6 xl:col-span-6 ">
+                            <div class="bg-green-100 dark:bg-green-500/10 backdrop-blur-2xl   rounded-md w-full relative">
+                                <div class="flex-auto p-8 md:p-8">
+                                    <span class="text-[12px] bg-green-500/10 text-green-500 dark:text-green-600 rounded font-medium py-1 px-2 inline mb-3">Finance</span>
+                                    <a href="#" class="my-3 block text-[24px] font-medium tracking-tight text-gray-800 dark:text-white">Popular admin template you can use for your business.</a> 
+                                    <div class="border-b border-dashed border-white dark:border-slate-700/40 my-4"></div>       
+                                    <p class="text-gray-500 dark:text-gray-400 text-lg font-normal">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                    <div class="block mt-3">
+                                        <a href="" class="block text-green-500 hover:text-green-600 font-medium  focus:outline-none">Read More <i data-lucide="arrow-right" class="self-center inline-block ms-1 h-4 w-4"></i></a>                            
+                                    </div>
+                                </div><!--end card-body-->
+                            </div> <!--end card-->
+                        </div><!--end col--> 
+                        <div class="col-span-12 sm:col-span-6  md:col-span-6 lg:col-span-6 xl:col-span-6 ">
+                            <div class="bg-yellow-100 dark:bg-yellow-500/10 backdrop-blur-2xl   rounded-md w-full relative">
+                                <div class="flex-auto p-8 md:p-8">
+                                    <span class="text-[12px] bg-yellow-500/10 text-yellow-500 dark:text-yellow-600 rounded font-medium py-1 px-2 inline mb-3">Finance</span>
+                                    <a href="#" class="my-3 block text-[24px] font-medium tracking-tight text-gray-800 dark:text-white">Popular admin template you can use for your business.</a> 
+                                    <div class="border-b border-dashed border-white dark:border-slate-700/40 my-4"></div>       
+                                    <p class="text-gray-500 dark:text-gray-400 text-lg font-normal">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                                    <div class="block mt-3 relative w-max group hover-eff">
+                                        <a href="" class="block text-yellow-500 hover:text-yellow-600 font-medium  focus:outline-none">Read More <i data-lucide="arrow-right" class="self-center inline-block ms-1 h-4 w-4"></i></a>  
+                                        <span class="absolute -bottom-[1px] left-0 w-0 transition-all h-[2px] bg-yellow-400 group-[.hover-eff]:group-hover:w-full"></span>                          
+                                    </div>
+                                </div><!--end card-body-->
+                            </div> <!--end card-->
+                        </div><!--end col--> 
+                    </div><!--end inner-grid-->
+                </div><!--end container-->
+            </div><!--end section-->             
+        </div><!--end Main-->  
+
+        <!-- JAVASCRIPTS -->
+        @@include("partials/script-file.html")
+        <script src="assets/js/app.js"></script> 
+    </body>
+</html>
